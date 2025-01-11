@@ -1,0 +1,7 @@
+https://nextjs.org/
+
+https://cloudinary.com/
+
+https://lucia-auth.com/
+
+https://next-auth.js.org/
